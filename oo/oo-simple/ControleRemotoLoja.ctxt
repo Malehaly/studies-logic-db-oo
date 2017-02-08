@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ ligar()
+comment1.params=
+comment1.target=void\ desligar()
+comment2.params=
+comment2.target=void\ trocarCanais()
+comment3.params=
+comment3.target=int\ aumentarVolume()
+comment4.params=
+comment4.target=int\ diminuirVolume()
+comment5.params=produtoEletronico
+comment5.target=ControleRemotoLoja(java.lang.String)
+comment6.params=produtoEletronico\ cor
+comment6.target=ControleRemotoLoja(java.lang.String,\ java.lang.String)
+comment7.params=produtoEletronico\ cor\ tamanho\ espessura
+comment7.target=ControleRemotoLoja(java.lang.String,\ java.lang.String,\ double,\ double)
+comment8.params=produtoEletronico\ alcance
+comment8.target=ControleRemotoLoja(java.lang.String,\ double)
+comment9.params=
+comment9.target=void\ finalize()
+numComments=10
